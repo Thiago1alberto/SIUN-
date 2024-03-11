@@ -1,7 +1,7 @@
 # SIUN - Scale Iterative Upscaling Network
 - O SIUN é uma rede neural projetada para aumentar a resolução de imagens, especialmente útil em tarefas de super-resolução de imagem. Ele opera de forma iterativa, aplicando etapas de aumento de escala para produzir imagens de alta resolução a partir de imagens de baixa resolução.
 
-# Instruções de Uso do Git Clone
+## Instruções de Uso do Git Clone
 
 1. Clonar o Repositório:
    git clone 
@@ -9,7 +9,7 @@
 2. Acessar o Diretório do Código:
    cd code
 
-Uso Básico
+## Uso Básico
 - Sempre é possível adicionar '--gpu=<gpu_id>' para especificar o ID da GPU, o ID padrão é 0.
 
 Para desfocar uma imagem:
