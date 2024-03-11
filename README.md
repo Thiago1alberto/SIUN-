@@ -1,5 +1,5 @@
-SIUN - Scale Iterative Upscaling Network
-O SIUN é uma rede neural projetada para aumentar a resolução de imagens, especialmente útil em tarefas de super-resolução de imagem. Ele opera de forma iterativa, aplicando etapas de aumento de escala para produzir imagens de alta resolução a partir de imagens de baixa resolução.
+# SIUN - Scale Iterative Upscaling Network
+- O SIUN é uma rede neural projetada para aumentar a resolução de imagens, especialmente útil em tarefas de super-resolução de imagem. Ele opera de forma iterativa, aplicando etapas de aumento de escala para produzir imagens de alta resolução a partir de imagens de baixa resolução.
 
 # Instruções de Uso do Git Clone
 
